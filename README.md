@@ -12,6 +12,7 @@ Spatial-temporal learning is the mainstream approach to exploring complex evolvi
 
 ## Visualization
 ![image](https://github.com/chenchl19941118/RiskContra/assets/25497533/4221b987-4597-4d00-9c74-c3a4d9d055fa)
+![image](https://github.com/chenchl19941118/RiskContra/assets/25497533/1441c994-fe56-406d-a7df-f7126bf6d28b)
 
 ## Usage
 
