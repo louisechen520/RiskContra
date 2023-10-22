@@ -6,6 +6,7 @@ Spatial-temporal learning is the mainstream approach to exploring complex evolvi
 % that employs a customized mixup strategy to generate augmented risk samples. This way, the contrastively learned features can better represent the risk samples, thus capturing higher-quality accident patterns for forecasting. To address the second challenge (i.e. spatial imbalance), we design the multi-kernel networks to capture the hierarchical correlations from multiple spatial granularities. This way, disparate regions can utilize the multi-granularity correlations to enhance the forecasting performance across regions. 
 
 ## Framework
+![image](https://github.com/chenchl19941118/RiskContra/assets/25497533/b7bb1659-804e-418f-975d-46bcac5c667b)
 
 ## Result
 
